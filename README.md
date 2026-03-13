@@ -55,39 +55,14 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedNabilSayed&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed Nabil's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNabilSayed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNabilSayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedNabilSayed&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
 
 ### 📫 Connect with Me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/ahmedNabilSayed" target="blank">
+  <a href="https://www.linkedin.com/in/ahmed-nabil-700262280/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/ahmedNabilSayed" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
+  
 </p>
 
 ---
